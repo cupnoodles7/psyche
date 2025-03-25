@@ -132,11 +132,11 @@ class VoiceAssistant:
             
     def run_voice_assistant(self):
         """Streamlit interface for the voice assistant."""
-        st.title("🎤 Real-Time Voice Assistant")
+        st.title("🎤 Real-Time Mental health Diagnosis Assitance")
         st.markdown("### 💬 Speak to receive immediate responses")
 
         # Text input fallback
-        user_message = st.text_input("Or type your message:")
+        user_message = st.text_input("Or type your message!:")
 
         if st.button("psyche") or user_message:
             if user_message:

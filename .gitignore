@@ -1,4 +1,5 @@
 .venv
-assets
-\.streamlit\secrets.toml
+assets/
+.streamlit/secrets.toml
+
 
