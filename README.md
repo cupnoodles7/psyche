@@ -1,4 +1,4 @@
-# Psyche 🧠💭
+# Psyche🪼
 
 ## Overview
 
