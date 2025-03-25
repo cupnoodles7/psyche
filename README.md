@@ -1,4 +1,4 @@
-# Psyche🪼
+# psyche🪼
 
 ## Overview
 
@@ -26,6 +26,26 @@ Psyche is an AI-powered mental health diagnosis and support system designed to a
 
 - **BrainRot Memes** 😄: Lighthearted entertainment
 - **Resources Hub** 🆘: Access to mental health resources
+
+### Demonstrations & Screenshots
+
+![Image](https://github.com/user-attachments/assets/874c4deb-c9e7-4d0c-b0a4-be839d2d99a8)
+
+![Image](https://github.com/user-attachments/assets/7f487cf2-6b86-4eb6-86af-619ad74622bc)
+
+![Image](https://github.com/user-attachments/assets/3a1ae3f8-c788-4dbc-b9d0-8b84bb03c9d4)
+
+![Image](https://github.com/user-attachments/assets/c8cd7c27-3d06-496b-8e48-481d9344b301)
+
+![Image](https://github.com/user-attachments/assets/6e0b70c5-666e-4061-8753-82f7783ad1cf)
+
+![Image](https://github.com/user-attachments/assets/083d8e8f-e787-4406-8c1a-34e1266b0aad)
+
+![Image](https://github.com/user-attachments/assets/52da5966-c29b-41d5-8899-abaeaa0a818b)
+
+![Image](https://github.com/user-attachments/assets/9e727ca5-1090-4389-b5af-90e4c8b7cdc6)
+
+![Image](https://github.com/user-attachments/assets/d99d3f6e-fa5d-4410-8caa-c9688809c36f)
 
 ## 🚀 Installation
 
