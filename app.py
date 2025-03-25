@@ -132,13 +132,13 @@ class VoiceAssistant:
             
     def run_voice_assistant(self):
         """Streamlit interface for the voice assistant."""
-        st.title("🎤 Real-Time Mental health Diagnosis Assitance")
-        st.markdown("### 💬 Speak to receive immediate responses")
+        st.title("🌼Real-Time Mental health Diagnosis Assitance")
+        st.markdown("### Say hi to your personal assistant!")
 
         # Text input fallback
-        user_message = st.text_input("Or type your message!:")
+        user_message = st.text_input("Or type your message")
 
-        if st.button("psyche") or user_message:
+        if st.button("Click to address your concerns") or user_message:
             if user_message:
                 # Use text input if provided
                 st.markdown(f"You: {user_message}")
@@ -184,7 +184,7 @@ def main():
 
     with col2:
         st.title("psyche")
-        st.markdown("Your Safe Space for Healing: Chat, Journal, Grow.")
+        st.markdown("Your Safe Space for Healing: diagnose and digress.")
     tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9 = st.tabs([
         "Chatbot", "Breathing Center", "Therapeutic Activities",
         "Sleep Tracker", "Mood Tracker", "Journal Center", 
