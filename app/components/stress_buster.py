@@ -48,6 +48,25 @@ def _display_spline_design():
 def _display_stress_relief_tips():
     st.subheader("Quick Stress Relief Tips")
     
+    # Apply styles once, at the beginning
+    st.markdown(
+        """
+        <style>
+            .tip-card {
+                background-color: #f0f2f6; 
+                color: black; 
+                padding: 10px;
+                margin: 5px 0;
+                border-radius: 8px;
+                font-weight: bold;
+                border-left: 5px solid #236860;
+            }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
+    # Now display each tip wrapped in the styled div
     tips = [
         "Take deep, slow breaths",
         "Practice mindfulness",
@@ -57,6 +76,6 @@ def _display_stress_relief_tips():
         "Practice progressive muscle relaxation",
         "Visualize a peaceful place"
     ]
-    
+
     for tip in tips:
-        st.markdown(f'<div class="tip-card">• {tip}</div>', unsafe_allow_html=True) 
+        st.markdown(f'<div class="tip-card">• {tip}</div>', unsafe_allow_html=True)
