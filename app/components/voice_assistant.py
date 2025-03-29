@@ -14,7 +14,7 @@ class VoiceAssistant:
 
     def _initialize_components(self):
         try:
-            api_key = os.getenv("GOOGLE_AI_API_KEY") or st.secrets.get("GOOGLE_AI_API_KEY")
+            api_key = st.secrets.get("GOOGLE_AI_API_KEY")
 
             if not api_key:
                 st.error("Google AI API Key is missing. Please configure it.")
