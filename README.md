@@ -27,6 +27,11 @@ Psyche is an AI-powered mental health diagnosis and support system designed to a
 - **BrainRot Memes** 😄: Lighthearted entertainment
 - **Resources Hub** 🆘: Access to mental health resources
 
+### Deployed Link on Streamlit Cloud
+
+- **https://psyche-qwqywyuekbgvtsejkzrtkk.streamlit.app/**
+  (Currently does not support the voice input feature and large audio files due to Streamlit Cloud limitations )
+
 ### Demonstrations & Screenshots
 
 ![Image](https://github.com/user-attachments/assets/874c4deb-c9e7-4d0c-b0a4-be839d2d99a8)
